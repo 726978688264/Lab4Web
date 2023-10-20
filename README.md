@@ -89,10 +89,12 @@ float: none;
 </html>
 ```
 ## Hasil Output
-![gambar 1](Gambar/1.png)
+![gambar 1](![1](https://github.com/726978688264/Lab4Web/assets/116443572/c09cc884-5ed2-4603-a3c1-8d9d18473b8d)
+)
 ## Membuat Layout Sederhana
 * Kita akan membuat layout web sederhana seperti gambar berikut.
-![gambar 9](foto/tugas9.png)
+![gambar 9](![9](https://github.com/726978688264/Lab4Web/assets/116443572/46c49276-965a-4c17-8ade-dfb80416e935)
+)
 ## Buat folder baru dengan nama ```lab4_layout```, kemudian buatlah file baru didalamnya dengan nama ```home.html```, dan file css dengan nama ```style.css```.
 ```python
 <!DOCTYPE html>
@@ -130,7 +132,8 @@ float: none;
 </footer>
 ```
 ## Hasil Output
-![gambar 2](foto/tugas2.png)
+![gambar 2](![2](https://github.com/726978688264/Lab4Web/assets/116443572/d1755a65-d7e4-47e3-a5d9-8637bc7fbe65)
+)
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```python
 /* import google font */
@@ -164,7 +167,8 @@ header h1 {
 }
 ```
 ## Hasil Output
-![gambar 3](foto/tugas3.png)
+![gambar 3](![3](https://github.com/726978688264/Lab4Web/assets/116443572/3275c463-a2fe-4496-a984-59d42f17121b)
+)
 ## Membuat Navigasi
 * Kemudian selanjutnya mengatur navigasi.
 ```python
