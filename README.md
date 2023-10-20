@@ -93,7 +93,7 @@ float: none;
 )
 ## Membuat Layout Sederhana
 * Kita akan membuat layout web sederhana seperti gambar berikut.
-![gambar 9](![9](https://github.com/726978688264/Lab4Web/assets/116443572/46c49276-965a-4c17-8ade-dfb80416e935)
+!(![9](https://github.com/726978688264/Lab4Web/assets/116443572/46c49276-965a-4c17-8ade-dfb80416e935)
 )
 ## Buat folder baru dengan nama ```lab4_layout```, kemudian buatlah file baru didalamnya dengan nama ```home.html```, dan file css dengan nama ```style.css```.
 ```python
@@ -132,7 +132,7 @@ float: none;
 </footer>
 ```
 ## Hasil Output
-![gambar 2](![2](https://github.com/726978688264/Lab4Web/assets/116443572/d1755a65-d7e4-47e3-a5d9-8637bc7fbe65)
+!(![2](https://github.com/726978688264/Lab4Web/assets/116443572/d1755a65-d7e4-47e3-a5d9-8637bc7fbe65)
 )
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ```python
@@ -167,7 +167,7 @@ header h1 {
 }
 ```
 ## Hasil Output
-![gambar 3](![3](https://github.com/726978688264/Lab4Web/assets/116443572/3275c463-a2fe-4496-a984-59d42f17121b)
+!(![3](https://github.com/726978688264/Lab4Web/assets/116443572/3275c463-a2fe-4496-a984-59d42f17121b)
 )
 ## Membuat Navigasi
 * Kemudian selanjutnya mengatur navigasi.
@@ -191,7 +191,8 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 4](foto/tugas4.png)
+!(![4](https://github.com/726978688264/Lab4Web/assets/116443572/5816565f-e9ee-464f-82b8-0ea1c25f4772)
+)
 ## Membuat Hero Panel.
 * Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
 ```python
@@ -222,7 +223,8 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 5](foto/tugas5.png)
+!(![5a](https://github.com/726978688264/Lab4Web/assets/116443572/0a2ad255-b881-4787-9628-272c41b167fd)
+)
 ## Mengatur Layout Main dan Sidebar
 * Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 ```python
@@ -290,7 +292,8 @@ nav a:hover {
 }
 ```
 ## Hasil Output
-![gambar 6](foto/tugas6.png)
+!(![6](https://github.com/726978688264/Lab4Web/assets/116443572/f9ef0cbf-f419-4e3d-9652-2cec6102673c)
+)
 ## Mengatur Footer
 * Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 ```python
@@ -303,7 +306,8 @@ footer {
 }
 ```
 ## Hasil Output
-![gambar 7](foto/tugas7.png)
+!(![7](https://github.com/726978688264/Lab4Web/assets/116443572/09160d0c-b092-4f0a-89b0-250b1186ba2e)
+)
 ## Menambahkan Elemen lainnya pada Main Content
 ```python
 <section id="main">
@@ -376,7 +380,8 @@ box img {
 }
 ```
 ## Hasil Output
-![gambar 8](foto/tugas8.png)
+!(![8](https://github.com/726978688264/Lab4Web/assets/116443572/66564495-eaef-4e9e-a565-be43436c9461)
+)
 ## Menambahkan Content Artikel
 * Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ```python
@@ -422,7 +427,8 @@ box img {
 }
 ```
 ## Hasil Output
-![gambar 9](foto/tugas9.png)
+!(![9](https://github.com/726978688264/Lab4Web/assets/116443572/ea34e2cc-3832-4331-975f-2786d6b57b1a)
+)
 ## Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
 * => buat single layout yang berisi deskripsi, portfolio, dll
@@ -605,5 +611,7 @@ button :hover{
 }
 ```
 ## Hasil Output
-![gambar 10](foto/tugas10.png)
-![gambar 11](foto/tugas11.png)
+!(![10](https://github.com/726978688264/Lab4Web/assets/116443572/b1ad765e-584a-462a-a3fd-fdbadae8a5c6)
+)
+!(![11](https://github.com/726978688264/Lab4Web/assets/116443572/ced7dcd9-018a-499e-894a-c9cf813ded76)
+)
