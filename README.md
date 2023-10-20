@@ -603,5 +603,5 @@ button :hover{
 }
 ```
 ## Hasil Output
-![10](https://github.com/726978688264/Lab4Web/assets/116443572/b1ad765e-584a-462a-a3fd-fdbadae8a5c6)
-![11](https://github.com/726978688264/Lab4Web/assets/116443572/ced7dcd9-018a-499e-894a-c9cf813ded76)
+![[10a](https://github.com/726978688264/Lab4Web/assets/116443572/ff99da33-e11a-442b-8f39-69a06f9097f3)
+![11a](https://github.com/726978688264/Lab4Web/assets/116443572/f2a60a93-ed85-4c4c-8457-c456f9934744)
